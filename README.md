@@ -16,7 +16,7 @@ Here are some ideas to get you started:
 -->
 
 
-<a href="https://app.daily.dev/vihangabandara"><img src="https://github.com/vihanga-bandara/vihanga-bandara/blob/master/devcard.svg" width="400" alt="Vihanga's Dev Card"/></a>
+<a href="https://app.daily.dev/vihangabandara"><img src="https://github.com/vihanga-bandara/vihanga-bandara/blob/main/devcard.svg" width="400" alt="Vihanga's Dev Card"/></a>
 
 - 🔭 I’m currently working on building scalable serverless applications
 - 🌱 I’m currently learning to become better at being a software engineer
