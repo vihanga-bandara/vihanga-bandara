@@ -15,4 +15,4 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-https://api.daily.dev/devcards/39572d57f15a4088a7801c856dff2929.png?r=2tv
+<a href="https://app.daily.dev/vihangabandara"><img src="https://api.daily.dev/devcards/39572d57f15a4088a7801c856dff2929.png?r=2tv" width="400" alt="Vihanga Bandara's Dev Card"/></a>
