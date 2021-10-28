@@ -15,4 +15,13 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-<a href="https://app.daily.dev/vihangabandara"><img src="https://api.daily.dev/devcards/39572d57f15a4088a7801c856dff2929.png?r=2tv" width="400" alt="Vihanga Bandara's Dev Card"/></a>
+
+<a href="https://app.daily.dev/vihangabandara"><img src="https://github.com/vihanga-bandara/vihanga-bandara/blob/master/devcard.svg" width="400" alt="Vihanga's Dev Card"/></a>
+
+- 🔭 I’m currently working on building scalable serverless applications
+- 🌱 I’m currently learning to become better at being a software engineer
+- 👯 I’m looking to collaborate on anything that will help me to grow in life and career
+
+- 📫 How to reach me: vihanga123@gmail.com
+
+- ⚡ Fun fact: Too many to list here ;)
