@@ -22,6 +22,6 @@ Here are some ideas to get you started:
 - 🌱 I’m currently learning to become better at being a software engineer
 - 👯 I’m looking to collaborate on anything that will help me to grow in life and career
 
-- 📫 How to reach me: vihanga123@gmail.com
+- 📫 How to reach me: vihangab96@gmail.com
 
 - ⚡ Fun fact: Too many to list here ;)
