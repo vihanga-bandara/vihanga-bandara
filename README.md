@@ -27,5 +27,5 @@ Here are some ideas to get you started:
 
 Check out my LinkedIn
 
-<div class="badge-base LI-profile-badge" data-locale="en_US" data-size="medium" data-theme="dark" data-type="VERTICAL" data-vanity="vihanga-bandara" data-version="v1"><a class="badge-base__link LI-simple-link" href="https://lk.linkedin.com/in/vihanga-bandara?trk=profile-badge">Vihanga Bandara</a></div>
+<div class="badge-base LI-profile-badge" data-locale="en_US" data-size="medium" data-theme="dark" data-type="VERTICAL" data-vanity="vihanga-bandara" data-version="v1"><a class="badge-base__link LI-simple-link" href="https://www.linkedin.com/in/vihanga-bandara/">Vihanga Bandara</a></div>
               
