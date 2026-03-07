@@ -11,9 +11,7 @@ I am a Software Engineer based in Stockholm, with a strong background in **.NET/
 
 ### 📈 What I'm reading
 
-<a href="https://app.daily.dev/vihangabandara">
-  <img src="https://github.com/vihanga-bandara/vihanga-bandara/blob/main/devcard.svg" width="400" alt="Vihanga's Dev Card"/>
-</a>
+<a href="https://app.daily.dev/vihangabandara"><img src="https://api.daily.dev/devcards/v2/jVJT5QvfY.png?type=default&r=jn9" width="356" alt="Vihanga Bandara's Dev Card"/></a>
 
 ### 📫 Let's Connect!
 
