@@ -1,6 +1,6 @@
 # Hi fellow coders 👋
 
-I am a Software Engineer based in Sweden, with hands on experience in **.NET/C#/Python/Azure/AWS** and experience building products from the ground up and also for stable mature products.
+I am a Software Engineer based in Sweden, with hands on experience in **.NET/C#/Python/Azure/AWS/Docker and many other technolgies** and experience building products from the ground up and also for stable mature products.
 
 ### 🚀 What I'm up to
 
